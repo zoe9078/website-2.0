@@ -1,6 +1,6 @@
 ---
-title: "John Doe"
-email: "email2@example.org"
+title: "Zoe White"
+email: "whitez@allegheny.edu"
 bg_image: "images/feature-bg.jpg"
 draft: false
 social:
