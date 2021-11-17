@@ -42,7 +42,7 @@ hasChildren = true
   parent = "More"
   name = "FAQ"
   url = "faq/"
-  weight = 3```
+  weight = 3
 
 [[main]]
 name = "Contact"
