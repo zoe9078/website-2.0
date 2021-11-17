@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-description: "this is meta description"
+description: "Learn about me!"
 bg_image: "images/feature-bg.jpg"
 layout: "about"
 draft: false
