@@ -13,7 +13,7 @@ weight = 2
 
 [[main]]
 name = "Portfolio"
-url = "projects/"
+url = "project/"
 weight = 3
 
 [[main]]
@@ -58,7 +58,7 @@ weight = 2
 
 [[footer]]
 name = "Portfoliot"
-url = "projects/"
+url = "project/"
 weight = 3
 
 [[footer]]
