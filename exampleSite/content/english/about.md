@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "ABOUT ME"
 description: "Learn about me!"
 bg_image: "images/feature-bg.jpg"
 layout: "about"
