@@ -19,6 +19,19 @@ about:
   image: "images/wrapper-img.png"
 
 
+######################### Portfolio ###############################
+portfolio:
+  enable: true
+  bg_image: "images/feature-bg.jpg"
+  title: "GET IN TOUCH!"
+  content: " I would love to hear 
+  "
+  button:
+    enable: true
+    label: "Contact Information"
+    link: "contact"
+
+
 ############################# Service ############################
 service:
   enable: false
