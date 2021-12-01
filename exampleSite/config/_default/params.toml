@@ -112,7 +112,7 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[social]]
 title = "github"
 icon = "fab fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#https://github.com/zoe9078"
+link = "https://github.com/zoe9078"
 
 [[social]]
 title = "linkedin"
