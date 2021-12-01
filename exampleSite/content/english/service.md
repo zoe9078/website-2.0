@@ -46,7 +46,7 @@ featured_service:
 ############################# Service ###############################
 service:
   enable : true
-  title : "Our Services"
+  title : "My Interests and Goals"
   description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
           blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
   service_item:
