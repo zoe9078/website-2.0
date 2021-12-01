@@ -10,8 +10,9 @@ draft: false
 about:
   enable : true
   image : "images/company/about.jpg"
-  title : "Hi! I'm Zoe White. Let me tell you a bit about myself!"
-
+  title : "Hi! I'm Zoe White. 
+  Let me tell you a bit about myself!"
+  description : "I am a student of computer science and art at Allegheny College. My interests include game design and development, 3D modeling, animation, and creative technology. I am currently in a co-op with creative technology company DEEPLOCAL and looking for similar experiences and opportunities! Check out my resume, or scroll down a bit for an overview of my skills!"
   button:
     enable : true
     label : "Discover My Resume"
@@ -51,7 +52,7 @@ about:
 ################################ feature #####################################
 features:
   enable : true
-  title : "SOME OF MY INTERESTS AND ACCOMPLISHMENTS"
+  title : "MY SKILLS"
   feature_item:
   # feature item loop
   - icon : "fab fa-app-store-ios" #https://fontawesome.com/v5.15/icons
@@ -66,7 +67,8 @@ features:
   # feature item loop
   - icon : "fas fa-gamepad" #https://fontawesome.com/v5.15/icons
     name : "Games Development"
-    content : "I am interested in game design and development!"
+    content : "I am interested in game design and development!
+    "
 
   # feature item loop
   - icon : "fas fa-microphone" #https://fontawesome.com/v5.15/icons
