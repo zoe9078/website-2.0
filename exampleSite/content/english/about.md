@@ -10,7 +10,8 @@ draft: false
 about:
   enable : true
   image : "images/company/about.jpg"
-  title : "I'm Zoe White. Let me tell you a bit about myself! I am a student of computer science and art at Allegheny College. My interests include game design and development, 3D modeling, animation, and creative technology. I am currently in a co-op with creative technology company DEEPLOCAL and looking for similar opportunities! Check out my resume, or scroll down a bit for an overview of my skills!"
+  title : "I'm Zoe White. Let me tell you a bit about myself!"
+  content : "I am a student of computer science and art at Allegheny College. My interests include game design and development, 3D modeling, animation, and creative technology. I am currently in a co-op with creative technology company DEEPLOCAL and looking for similar opportunities! Check out my resume, or scroll down a bit for an overview of my skills!"
   button:
     enable : true
     label : "Discover My Resume"
