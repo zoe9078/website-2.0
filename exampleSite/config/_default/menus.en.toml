@@ -57,7 +57,7 @@ url = "about/"
 weight = 2
 
 [[footer]]
-name = "Portfoliot"
+name = "Portfolio"
 url = "project/"
 weight = 3
 
@@ -76,7 +76,7 @@ weight = 3
 #url = "faq/"
 #weight = 6
 
-#[[footer]]
-#name = "Contact"
-#url = "contact/"
-#weight = 7
+[[footer]]
+name = "Contact"
+url = "contact/"
+weight = 7
