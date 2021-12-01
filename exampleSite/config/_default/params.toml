@@ -108,25 +108,11 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 # available widget : categories,tags,recent-post
 
 ############################# social site ########################
-[[social]]
-title = "facebook"
-icon = "fab fa-facebook"  # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
-
-[[social]]
-title = "twitter"
-icon = "fab fa-twitter"  # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
-
-[[social]]
-title = "instagram"
-icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
 
 [[social]]
 title = "github"
 icon = "fab fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "# github : https://github.com/zoe9078"
 
 [[social]]
 title = "linkedin"
