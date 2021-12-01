@@ -66,7 +66,7 @@ features:
   # feature item loop
   - icon : "fas fa-gamepad" #https://fontawesome.com/v5.15/icons
     name : "Games Development"
-    content : "I am interested in game design and development!                                                                                                                                       "
+    content : "I am interested in game design and development! I would love to explore this intersection of art and technology! "
 
   # feature item loop
   - icon : "fas fa-microphone" #https://fontawesome.com/v5.15/icons
