@@ -17,6 +17,10 @@ about:
   title: "About Me"
   description: "Welcome! I am Zoe White, a student of computer science and art. My passions lie where these two subjects meet and I am pursuing opportunities which will give me experience in either, but preferably both, of these areas."
   image: "images/wrapper-img.png"
+  button:
+    enable: true
+    label: "Learn More"
+    link: "about"
 
 
 ######################### Portfolio ###############################
@@ -24,7 +28,7 @@ portfolio:
   enable: true
   bg_image: "images/feature-bg.jpg"
   title: "GET IN TOUCH!"
-  content: " I would love to hear 
+  content: " I would love to hear from you!
   "
   button:
     enable: true
