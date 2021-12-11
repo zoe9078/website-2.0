@@ -26,7 +26,7 @@ about:
 ######################### Portfolio ###############################
 portfolio:
   enable: true
-  bg_image: "images/snowdunes.jpg"
+  bg_image: "images/slider-bg.jpg"
   title: ""
   content: ""
   button:
