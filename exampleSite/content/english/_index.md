@@ -26,7 +26,7 @@ about:
 ######################### Portfolio ###############################
 portfolio:
   enable: true
-  bg_image: "background.webp"
+  bg_image: "images/background.webp"
   title: "GET IN TOUCH!"
   content: " I would love to hear from you!
   "
