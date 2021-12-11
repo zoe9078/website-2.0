@@ -60,32 +60,32 @@ service:
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
-    - icon : fas fa-image #https://fontawesome.com/v5.15/icons
+    - icon : fas fa-camera-retro #https://fontawesome.com/v5.15/icons
       name: Photography
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
-    - icon : fas fa-bug #https://fontawesome.com/v5.15/icons
+    - icon : fas fa-tablet-alt #https://fontawesome.com/v5.15/icons
       name: Digital Art
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
-    - icon : fas fa-headphones-alt #https://fontawesome.com/v5.15/icons
+    - icon : fas fa-python #https://fontawesome.com/v5.15/icons
       name: Programming Languages
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
-    - icon : fas fa-leaf #https://fontawesome.com/v5.15/icons
+    - icon : fas fa-palette #https://fontawesome.com/v5.15/icons
       name: Creative Design
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
-    - icon : fas fa-globe-asia #https://fontawesome.com/v5.15/icons
+    - icon : fas fa-github #https://fontawesome.com/v5.15/icons
       name: GitHub
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
-    - icon : fas fa-feather #https://fontawesome.com/v5.15/icons
+    - icon : fas fa-photo-video #https://fontawesome.com/v5.15/icons
       name: 2D Animation
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
