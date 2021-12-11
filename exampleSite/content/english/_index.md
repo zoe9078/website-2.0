@@ -30,7 +30,7 @@ portfolio:
   title: ""
   content: ""
   button:
-    enable: true
+    enable: false
     label: "Contact Information"
     link: "contact"
 
