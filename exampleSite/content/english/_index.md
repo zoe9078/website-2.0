@@ -5,7 +5,7 @@ banner:
   bg_image: "images/slider-bg.jpg"
   bg_overlay: true
   title: "Zoe White"
-  #content: "I am a student of computer science and art"
+  content: "STUDENT. ARTIST. DEVELOPER."
   button:
     enable: true
     label: "Discover My Portfolio"
@@ -26,9 +26,9 @@ about:
 ######################### Portfolio ###############################
 portfolio:
   enable: true
-  bg_image: "images/photo-1611659934318-06fd70ced53c.jpeg"
-  title: "GET IN TOUCH!"
-  #content: " I would love to hear from you!
+  bg_image: "images/feature-bg2.jpg"
+  title: ""
+  #content: " Get in touch! I would love to hear from you!
   #"
   button:
     enable: true
