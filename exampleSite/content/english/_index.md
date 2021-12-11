@@ -26,10 +26,9 @@ about:
 ######################### Portfolio ###############################
 portfolio:
   enable: true
-  bg_image: "images/feature-bg2.jpg"
+  bg_image: "images/feature-bg.jfif"
   title: ""
-  #content: " Get in touch! I would love to hear from you!
-  #"
+  content: " Get in touch! I would love to hear from you!"
   button:
     enable: true
     label: "Contact Information"
