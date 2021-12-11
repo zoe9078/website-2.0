@@ -26,7 +26,7 @@ about:
 ######################### Portfolio ###############################
 portfolio:
   enable: true
-  bg_image: "images/smoky.jpg"
+  bg_image: "images/grey.jpg"
   title: ""
   content: ""
   button:
