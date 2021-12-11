@@ -46,13 +46,12 @@ featured_service:
 ############################# Service ###############################
 service:
   enable : true
-  title : "My Interests and Goals"
-  description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
-          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
+  title : "My Skills"
+  description : ""
   service_item:
     # service item loop
     - icon : fas fa-bullseye #https://fontawesome.com/v5.15/icons
-      name: Branding
+      name: "Software Development" 
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
