@@ -50,7 +50,7 @@ service:
   description : ""
   service_item:
     # service item loop
-    - icon : fas fa-bullseye #https://fontawesome.com/v5.15/icons
+    - icon : fas fa-laptop-code #https://fontawesome.com/v5.15/icons
       name: Software Engineering
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
