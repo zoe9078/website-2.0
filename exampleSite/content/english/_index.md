@@ -5,7 +5,7 @@ banner:
   bg_image: "images/slider-bg.jpg"
   bg_overlay: true
   title: "Zoe White"
-  content: "STUDENT. ARTIST. DEVELOPER."
+  content: "STUDENT.  ARTIST.   DEVELOPER."
   button:
     enable: true
     label: "Discover My Portfolio"
@@ -26,9 +26,9 @@ about:
 ######################### Portfolio ###############################
 portfolio:
   enable: true
-  bg_image: "images/feature-bg.jfif"
-  title: ""
-  content: " Get in touch! I would love to hear from you!"
+  bg_image: "images/spiral.jfif"
+  title: "CONTACT ME!"
+  content: ""
   button:
     enable: true
     label: "Contact Information"
