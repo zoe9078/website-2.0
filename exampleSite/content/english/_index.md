@@ -26,7 +26,7 @@ about:
 ######################### Portfolio ###############################
 portfolio:
   enable: true
-  bg_image: "images/violet.jpg"
+  bg_image: "images/snowdunes.jpg"
   title: ""
   content: ""
   button:
