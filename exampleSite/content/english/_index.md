@@ -25,9 +25,9 @@ about:
 
 ######################### Portfolio ###############################
 portfolio:
-  enable: false
-  bg_image: "images/spiral.jfif"
-  title: "CONTACT ME!"
+  enable: true
+  bg_image: "images/stars.jpg"
+  title: ""
   content: ""
   button:
     enable: true
