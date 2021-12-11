@@ -26,10 +26,10 @@ about:
 ######################### Portfolio ###############################
 portfolio:
   enable: true
-  bg_image: "images/background.webp"
+  bg_image: "photo-1611659934318-06fd70ced53c.jpeg"
   title: "GET IN TOUCH!"
-  content: " I would love to hear from you!
-  "
+  #content: " I would love to hear from you!
+  #"
   button:
     enable: true
     label: "Contact Information"
