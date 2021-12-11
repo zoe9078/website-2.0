@@ -5,7 +5,7 @@ banner:
   bg_image: "images/slider-bg.jpg"
   bg_overlay: true
   title: "Zoe White"
-  content: "STUDENT.    ARTIST.    DEVELOPER."
+  content: "Student.    Artist.    Developer."
   button:
     enable: true
     label: "Discover My Portfolio"
