@@ -1,7 +1,7 @@
 ---
 title: "ABOUT"
 #description: "Learn about me!"
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/background.webp"
 layout: "about"
 draft: false
 
