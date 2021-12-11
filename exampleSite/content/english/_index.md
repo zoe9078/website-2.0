@@ -26,7 +26,7 @@ about:
 ######################### Portfolio ###############################
 portfolio:
   enable: true
-  bg_image: "photo-1611659934318-06fd70ced53c.jpeg"
+  bg_image: "images/photo-1611659934318-06fd70ced53c.jpeg"
   title: "GET IN TOUCH!"
   #content: " I would love to hear from you!
   #"
