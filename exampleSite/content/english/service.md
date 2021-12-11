@@ -70,7 +70,7 @@ service:
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
-    - icon : fas fa-python #https://fontawesome.com/v5.15/icons
+    - icon : fab fa-python #https://fontawesome.com/v5.15/icons
       name: Programming Languages
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
@@ -80,7 +80,7 @@ service:
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
-    - icon : fas fa-github #https://fontawesome.com/v5.15/icons
+    - icon : fab fa-github #https://fontawesome.com/v5.15/icons
       name: GitHub
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
