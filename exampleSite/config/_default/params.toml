@@ -19,8 +19,8 @@ address_descriptors = false
 # contact info
 #phone = "0124857985320"
 email = "whitez@allegheny.edu"
-location = """
-**Allegheny College**
+#location = """
+#**Allegheny College**
 """
 # copyright
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
@@ -109,7 +109,7 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[social]]
 title = "github"
 icon = "fab fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://github.com/zoe9078"
+link = "" # https://github.com/zoe9078
 
 [[social]]
 title = "linkedin"
