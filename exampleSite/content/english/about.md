@@ -43,7 +43,7 @@ features:
 
   title : "MY PERSONAL INTERESTS"
   content : "Learn about what I like to do with my free time."
-
+  feature_item:
   # feature item loop
   - icon : "fas fa-star-of-life" #https://fontawesome.com/v5.15/icons
     name : "Branding"
