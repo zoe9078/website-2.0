@@ -42,28 +42,6 @@ features:
     content : "I would love to learn more about the process of creating concept art for both characters and settings."
 
 
-################################ feature #####################################
-features:
-  enable : true
-  title : "MY PERSONAL INTERESTS"
-  content : "Learn about what I like to do with my free time."
-  feature_item:
-  # feature item loop
-  - icon : "fas fa-star-of-life" #https://fontawesome.com/v5.15/icons
-    name : "Branding"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-  # feature item loop
-  - icon : "fab fa-app-store-ios" #https://fontawesome.com/v5.15/icons
-    name : "IOS App Development"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-  # feature item loop
-  - icon : "fas fa-unlock" #https://fontawesome.com/v5.15/icons
-    name : "App Secutity"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-
 
 #################################### testimonial & mission vision #######################################
 testimonial:
