@@ -21,7 +21,7 @@ address_descriptors = false
 email = "whitez@allegheny.edu"
 #location = """
 #**Allegheny College**
-"""
+#"""
 # copyright
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
