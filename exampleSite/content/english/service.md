@@ -52,27 +52,27 @@ service:
     # service item loop
     - icon : fas fa-laptop-code #https://fontawesome.com/v5.15/icons
       name: Software Engineering
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "I have experience working in software development teams using agile scrum methodology in order to complete projects."
 
     # service item loop
     - icon : fas fa-layer-group #https://fontawesome.com/v5.15/icons
-      name: Adobe Suite
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name: Adobe Creative Suite
+      content: "I have a strong understanding of the Adobe Suite, and have the most experience with Photoshop, Premiere Pro, and Illustrator."
 
     # service item loop
     - icon : fas fa-camera-retro #https://fontawesome.com/v5.15/icons
       name: Photography
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "I have experience taking and editing photos with professional cameras. I also have experience working in studios and darkrooms."
 
     # service item loop
     - icon : fas fa-tablet-alt #https://fontawesome.com/v5.15/icons
       name: Digital Art
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "I use Procreate and other similar programs to create digital art. This includes, but is not limited to, portraits, concept art, and calligraphy."
 
     # service item loop
     - icon : fab fa-python #https://fontawesome.com/v5.15/icons
       name: Programming Languages
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "I have a strong understanding of both Python and Java programming languages. I also have a more basic understanding of Javascript, C, C++, and C#."
 
     # service item loop
     - icon : fas fa-palette #https://fontawesome.com/v5.15/icons
