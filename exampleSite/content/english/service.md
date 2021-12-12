@@ -76,18 +76,18 @@ service:
 
     # service item loop
     - icon : fas fa-palette #https://fontawesome.com/v5.15/icons
-      name: Creative Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name: Creative and Artistic Skills
+      content: "I use my creative thinking to solve complex problems, and utilize my artistic skills to mkae visually appealing projects."
 
     # service item loop
     - icon : fab fa-github #https://fontawesome.com/v5.15/icons
       name: GitHub
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "I have a lot of experience using GitHub and have a full understanding of the GitHub flow model and best practices."
 
     # service item loop
     - icon : fas fa-photo-video #https://fontawesome.com/v5.15/icons
       name: 2D Animation
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "I have experience creating 2d animations using digital programs."
 
 ############################# call to action #################################
 cta:
