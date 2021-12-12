@@ -20,10 +20,7 @@ address_descriptors = false
 phone = "0124857985320"
 email = "whitez@allegheny.edu"
 location = """
-**Themefisher**
-North Main Street
-Brooklyn, New South Wales
-Australia
+#**Themefisher**North Main StreetBrooklyn, New South WalesAustralia
 """
 # copyright
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
@@ -89,7 +86,7 @@ baidu = "" # Your verification code
 
 # google map
 [gmap]
-enable = true
+enable = false
 gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
