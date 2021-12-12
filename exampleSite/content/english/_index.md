@@ -16,11 +16,12 @@ about:
   enable: true
   title: "About Me"
   description: "Welcome! I am Zoe White, a student of computer science and art. My passions lie where these two subjects meet and I am pursuing opportunities which will give me experience in either, but preferably both, of these areas. Scroll down for a short overview of some of my skills!"
-  image: "images/wrapper-img.png"
-  button:
+    button:
     enable: true
     label: "Learn More"
     link: "about"
+  image: "images/wrapper-img.png"
+
 
 
 ######################### Portfolio ###############################
