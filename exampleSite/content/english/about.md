@@ -41,6 +41,10 @@ features:
     name : "Concept Art"
     content : "I would love to learn more about the process of creating concept art for both characters and settings."
 
+
+################################ feature #####################################
+features:
+  enable : true
   title : "MY PERSONAL INTERESTS"
   content : "Learn about what I like to do with my free time."
   feature_item:
