@@ -1,10 +1,10 @@
 ---
-title: "Rio Furniture"
+title: "Photography Project"
 description: "this is meta description"
 draft: false
 image : "images/portfolio/work4.jpg"
 bg_image: "images/feature-bg.jpg"
-category: "Digital Art/ Design"
+category: "Photography"
 information:
   - label : "Client"
     info : "Jannie Kelonsky"
