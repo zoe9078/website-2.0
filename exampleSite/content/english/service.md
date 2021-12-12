@@ -87,7 +87,7 @@ service:
     # service item loop
     - icon : fas fa-photo-video #https://fontawesome.com/v5.15/icons
       name: 2D Animation
-      content: "I have experience creating 2d animations using digital programs."
+      content: "I have experience creating 2D animations using digital programs like Procreate and Sketchbook."
 
 ############################# call to action #################################
 cta:

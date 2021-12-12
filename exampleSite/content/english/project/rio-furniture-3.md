@@ -1,8 +1,8 @@
 ---
-title: "Fake News Detection "
-description: "Ethical Tool Developed to Identify Fake News on Social Media"
+title: "FAKE NEWS DETECTION"
+description: "Ethical tool developed to screen tweet for misinformation"
 draft: false
-image : "images/portfolio/work3.jpg"
+image : "images/screenshot.png"
 bg_image: "images/feature-bg.jpg"
 category: "Software Development"
 information:
@@ -18,4 +18,6 @@ information:
 
 This software was created because of concerns surrounding the prevalence of fake news and misinformation posted on social media. The goal of this tool is to be able to sift through tweets, identifying and flagging information which may be false. 
 
-This project was funded by the Mozilla Foundation with the purpose of giving Allegheny College students the ability to create projects which help solve ethical concerns while 
+This project was funded by the Mozilla Foundation with the purpose of giving Allegheny College students the ability to create projects which help solve ethical concerns.
+
+[GitHub Repository](https://github.com/Allegheny-Ethical-CS/FakeNewsDetection)
