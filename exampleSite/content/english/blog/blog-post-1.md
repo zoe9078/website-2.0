@@ -1,11 +1,11 @@
 ---
 title: "Get to Know Me"
 date: 2022-08-03T11:07:10+06:00
-author: Zoe White
+author: ["Zoe White"]
 image : "images/blog/blog-post-1.jpg"
 bg_image: "images/feature-bg.jpg"
 categories: ["me"]
-tags: ["about me"]
+tags: ["about"]
 description: "this is meta description"
 draft: false
 type: "post"
