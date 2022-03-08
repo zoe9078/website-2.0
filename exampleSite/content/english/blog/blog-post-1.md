@@ -4,7 +4,7 @@ date: 2022-08-03T11:07:10+06:00
 author: Zoe White
 image : "images/blog/blog-post-1.jpg"
 bg_image: "images/feature-bg.jpg"
-#categories: [""]
+categories: [""]
 tags: ["about me"]
 #description: "this is meta description"
 draft: false
