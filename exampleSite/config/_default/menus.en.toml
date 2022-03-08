@@ -16,10 +16,10 @@ name = "Portfolio"
 url = "project/"
 weight = 3
 
-#[[main]]
-#name = "Blog"
-#url = "blog/"
-#weight = 4
+[[main]]
+name = "Blog"
+url = "blog/"
+weight = 4
 
 #[[main]]
 #weight = 5
