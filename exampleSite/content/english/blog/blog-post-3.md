@@ -16,6 +16,8 @@ This project can be found at [this link](https://github.com/charliegerard/gaze-d
 
 This tool allows the use of gaze activated software. It would be helpful for me if I wanted to create an interactive piece of art where the user had to move their eyes to interact. I think implementing the body into the interactivity of a project would be a good way to study human-computer interactions. The use of a gaze heat map such as [this one](https://github.com/TobiasRoeddiger/GazePointHeatMap) could also be used to track where a user looks when interacting with a project.
 
+IThis tutorial is in Javascript.*
+
 In order to use the gaze detection software we must clone it into our computers using:
 
 ```
