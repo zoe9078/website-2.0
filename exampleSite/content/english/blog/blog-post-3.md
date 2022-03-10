@@ -1,5 +1,5 @@
 ---
-title: "Touchdesigner Tutorial"
+title: "TOUCHDESIGNER TUTORIAL"
 date: 2022-03-09T11:07:10+06:00
 author: ["Zoe White"]
 #image : "images/blog/blog-post-3.jpg"

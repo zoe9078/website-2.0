@@ -1,5 +1,5 @@
 ---
-title: "About My Research Interests"
+title: "ABOUT MY RESEARCH INTERESTS"
 date: 2022-03-09T11:07:10+06:00
 author: [ "Zoe White" ]
 #image : "images/blog/blog-post-2.jpg"
