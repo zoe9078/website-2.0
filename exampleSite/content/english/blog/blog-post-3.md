@@ -21,7 +21,7 @@ This tool allows the use of gaze activated software. It would be helpful for me 
 In order to use the gaze detection software we must clone it into our computers using:
 
 ```
-git clone
+git clone https://github.com/charliegerard/gaze-detection.git
 ```
 
 One we have cloned the repository we cn use the software. To start we should have a code file where we want to the code to be. The first thing we should do is import the software:
