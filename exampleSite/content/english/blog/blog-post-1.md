@@ -1,5 +1,5 @@
 ---
-title: "Get to Know Me"
+title: "GET TO KNOW ME"
 date: 2022-03-08T11:07:10+06:00
 author: ["Zoe White"]
 #image : "images/blog/blog-post-1.jpg"
