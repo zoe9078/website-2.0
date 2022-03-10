@@ -5,7 +5,7 @@ author: [ "Zoe White" ]
 #image : "images/blog/blog-post-2.jpg"
 bg_image: "images/feature-bg.jpg"
 categories: ["Research"]
-tags: ["research","about"]
+tags: ["Research","About"]
 #description: "this is meta description"
 draft: false
 type: "post"

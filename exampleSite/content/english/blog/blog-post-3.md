@@ -1,40 +1,60 @@
 ---
-title: "TOUCHDESIGNER TUTORIAL"
+title: "GAZE DETECTION TUTORIAL"
 date: 2022-03-09T11:07:10+06:00
 author: ["Zoe White"]
 #image : "images/blog/blog-post-3.jpg"
 bg_image: "images/feature-bg.jpg"
 categories: ["Tutorial"]
-tags: ["research"]
+tags: ["Research", "How To"]
 #description: "this is meta description"
 draft: false
 type: "post"
 ---
 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores
-vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem
-ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae ab doloremque accusamus sit, eos dolorum officiis
-a perspiciatis aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, facere. 
+This project can be found at [this link](https://github.com/charliegerard/gaze-detection).
 
-> Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes
-nemo minima rerums unsers sadips amets.. Sed ut perspiciatis unde omnis iste natus error
+This tool allows the use of gaze activated software. It would be helpful for me if I wanted to create an interactive piece of art where the user had to move their eyes to interact. I think implementing the body into the interactivity of a project would be a good way to study human-computer interactions. The use of a gaze heat map such as [this one](https://github.com/TobiasRoeddiger/GazePointHeatMap) could also be used to track where a user looks when interacting with a project.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum illo deserunt necessitatibus quibusdam sint,
-eos explicabo tenetur molestiae vero facere, aspernatur sit mollitia perferendis reiciendis. Deleniti magni
-explicabo sed alias fugit amet animi molestias ipsum maiores. Praesentium sint, id laborum quos. Tempora
-inventore est, dolor corporis quis doloremque nostrum, eos velit culpa quasi labore. Provident laborum porro
-nihil iste, magnam officia nemo praesentium autem, libero vel officiis. Omnis pariatur nam voluptatem voluptate
-at officia repellat ea beatae eligendi? Mollitia error saepe, aperiam facere. Optio maiores deleniti veritatis
-eaque commodi atque aperiam, debitis iste alias eligendi ut facilis earum! Impedit, tempore.
+In order to use the gaze detection software we must clone it into our computers using:
 
 ```
-  .blog-classic {
-  margin-bottom: 70px;
-  padding-bottom: 70px;
-  border-bottom: 1px solid #efefef;
-  }
+git clone
 ```
+
+One we have cloned the repository we cn use the software. To start we should have a code file where we want to the code to be. The first thing we should do is import the software:
+
+```javascript
+import gaze from "gaze-detection";
+```
+
+Load model for machine learning:
+
+```javascript
+await gaze.loadModel();
+```
+The example in the GitHub repository that shows how to set up the software is below. If you are using needs a camera device ID only if you are using something other than your computer's webcam:
+
+```javascript
+const videoElement = document.querySelector("video");
+
+const init = async () => {
+  // Using the default webcam
+  await gaze.setUpCamera(videoElement);
+
+  // Or, using more camera input devices
+  const mediaDevices = await navigator.mediaDevices.enumerateDevices();
+  const camera = mediaDevices.find(
+    (device) =>
+      device.kind === "videoinput" &&
+      device.label.includes(/* The label from the list of available devices*/)
+  );
+
+  await gaze.setUpCamera(videoElement, camera.deviceId);
+};
+```
+
+
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex error esse a dolore, architecto sapiente, aliquid
 commodi, laudantium eius nemo enim. Enim, fugit voluptatem rem molestiae. Sed totam quis accusantium iste
