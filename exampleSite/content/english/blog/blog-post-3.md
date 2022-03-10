@@ -23,18 +23,16 @@ git clone
 ```
 
 One we have cloned the repository we cn use the software. To start we should have a code file where we want to the code to be. The first thing we should do is import the software:
-
 ```javascript
 import gaze from "gaze-detection";
 ```
 
 Load model for machine learning:
-
 ```javascript
 await gaze.loadModel();
 ```
-The example in the GitHub repository that shows how to set up the software is below. If you are using needs a camera device ID only if you are using something other than your computer's webcam:
 
+The example in the GitHub repository that shows how to set up the software is below. If you are using needs a camera device ID only if you are using something other than your computer's webcam:
 ```javascript
 const videoElement = document.querySelector("video");
 
@@ -53,20 +51,25 @@ const init = async () => {
   await gaze.setUpCamera(videoElement, camera.deviceId);
 };
 ```
+This sets up your camera and uses it as input in the software.
 
+Now in this step you can actually add you own code to tell the program what it should do depending on the input it recieves from the camera! The code for this is an 'if statement' and you can designate which direction using 'UP', 'DOWN', 'RIGHT', or 'LEFT'. There are so many cool projects you could create with this software so feel free to expirement!
 
+```javascript
+const predict = async () => {
+  const gazePrediction = await gaze.getGazePrediction();
+  console.log("Gaze direction: ", gazePrediction); //will return 'RIGHT', 'LEFT', 'STRAIGHT' or 'TOP'
+  if (gazePrediction === "RIGHT") {
+    // do something when the user looks to the right
+  }
+  let raf = requestAnimationFrame(predict);
+};
+predict();
+```
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex error esse a dolore, architecto sapiente, aliquid
-commodi, laudantium eius nemo enim. Enim, fugit voluptatem rem molestiae. Sed totam quis accusantium iste
-nesciunt id exercitationem cumque repudiandae voluptas perspiciatis, consequatur quasi, molestias, culpa odio
-adipisci. Nesciunt optio fugiat iste quam modi, ex vitae odio pariatur! Corrupti explicabo at harum qui
-doloribus, sit dicta nemo, dolor, enim eum molestias fugiat obcaecati autem eligendi? Nisi delectus eaque
-architecto voluptatibus, unde sit minus quae quod eligendi soluta recusandae doloribus, officia, veritatis
-voluptatum eius aliquam quos. Consectetur, nisi? Veritatis totam, unde nostrum exercitationem tempora suscipit,
-molestias, deserunt ipsum laborum aut iste eaque? Vitae delectus dicta maxime non mollitia? Sapiente eos a quia
-eligendi deserunt repudiandae modi molestias tenetur autem pariatur ullam itaque, quas eveniet, illo quam rerum
-ex obcaecati voluptatum nesciunt incidunt culpa provident illum soluta. Voluptas possimus nesciunt inventore
-perspiciatis neque fugiat, magnam natus repellendus praesentium eum voluptatum, alias incidunt, tempora
-reprehenderit recusandae et numquam itaque ratione dolor voluptatibus in commodi ut! Neque deserunt nostrum
-commodi dolor natus quo, non vitae deleniti, vero voluptatem error aspernatur veniam expedita numquam amet quia
-in dolores velit esse molestiae! Iusto architecto accusantium quisquam recusandae quod vero quia.
+If you are all done using the gaze detection use this line to stop the detection:
+```javascript
+cancelAnimationFrame(raf);
+```
+
+I hope you enjoyed this tutorial and realized that there are so many cool softwares out there that you can use to make interesting projects!
