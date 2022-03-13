@@ -20,7 +20,7 @@ This tool allows the use of gaze activated software. It would be helpful for me 
 
 An example of a project this software was used to create is a gaze activated keyboard. 
 
-![Alt Text](https://github.com/charliegerard/gaze-detection/blob/main/gaze-demo.gif)
+![Alt Text](https://github.com/zoe9078/website-2.0/blob/master/exampleSite/static/images/gaze-demo.gif)
 
 In order to use the gaze detection software we must clone it into our computers using:
 
