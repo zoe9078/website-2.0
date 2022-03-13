@@ -17,7 +17,7 @@ This project's repository can be found at [this link](https://github.com/charlie
 This tool allows the use of gaze activated software. It would be helpful for me if I wanted to create an interactive piece of art where the user had to move their eyes to interact. I think implementing the body into the interactivity of a project would be a good way to study human-computer interactions. The use of a gaze heat map such as [this one](https://github.com/TobiasRoeddiger/GazePointHeatMap) could also be used to track where a user looks when interacting with a project.
 
 
-An example of a project this software was used to create is a gaze activated keyboard. An image of this in use is above. The user looks in one of the four directions in order to narrow down which number they wish to type. Thisis just one example of how this software could be used!
+An example of a project this software was used to create is a gaze activated keyboard. An image of this in use is above. The user looks in one of the four directions in order to narrow down which number they wish to type. This is just one example of how this software could be used!
 
 This software uses the Tensorflow "Face Landmarks Detection" model. This may be another tool that is useful to my research, especially in the area of interactive art. There are so many ways facial gestures could be implemented into any projects I create in the future!
 
@@ -29,7 +29,7 @@ In order to use the gaze detection software we must clone it into our computers 
 git clone https://github.com/charliegerard/gaze-detection.git
 ```
 
-One we have cloned the repository we cn use the software. To start we should have a code file where we want to the code to be. The first thing we should do is import the software:
+One we have cloned the repository we can use the software. To start we should have a code file where we want to the code to be. The first thing we should do is import the software:
 ```javascript
 import gaze from "gaze-detection";
 ```
@@ -60,7 +60,7 @@ const init = async () => {
 ```
 This sets up your camera and uses it as input in the software.
 
-Now in this step you can actually add you own code to tell the program what it should do depending on the input it recieves from the camera! The code for this is an 'if statement' and you can designate which direction using 'UP', 'DOWN', 'RIGHT', or 'LEFT'. There are so many cool projects you could create with this software so feel free to expirement!
+Now in this step you can actually add you own code to tell the program what it should do depending on the input it receives from the camera! The code for this is an 'if statement' and you can designate which direction using 'UP', 'DOWN', 'RIGHT', or 'LEFT'. There are so many cool projects you could create with this software so feel free to experiment!
 
 ```javascript
 const predict = async () => {
@@ -79,7 +79,7 @@ If you are all done using the gaze detection use this line to stop the detection
 cancelAnimationFrame(raf);
 ```
 
-I hope you enjoyed this tutorial and realized that there are so many cool softwares out there that you can use to make interesting projects!
+I hope you enjoyed this tutorial and realized that there are so many cool software out there that you can use to make interesting projects!
 
 Here are some other tools I am interested in learning more about:
 
