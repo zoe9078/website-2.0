@@ -2,7 +2,7 @@
 title: "GAZE DETECTION TUTORIAL"
 date: 2022-03-09T11:07:10+06:00
 author: ["Zoe White"]
-#image : "images/blog/blog-post-3.jpg"
+image : "images/gaze-demo.jpg"
 bg_image: "images/feature-bg.jpg"
 categories: ["Tutorial"]
 tags: ["Research", "How To"]
@@ -19,8 +19,6 @@ This tool allows the use of gaze activated software. It would be helpful for me 
 *This tutorial is in Javascript.*
 
 An example of a project this software was used to create is a gaze activated keyboard. 
-
-![Pic](https://github.com/zoe9078/website-2.0/blob/master/exampleSite/static/images/gaze-demo.jpg)
 
 In order to use the gaze detection software we must clone it into our computers using:
 
