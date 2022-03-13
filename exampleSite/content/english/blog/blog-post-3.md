@@ -84,7 +84,7 @@ I hope you enjoyed this tutorial and realized that there are so many cool softwa
 Here are some other tools I am interested in learning more about:
 
 [Touchdesigner](https://derivative.ca/)
-
 [Blender](https://www.blender.org/)
-
 [Unity](https://unity.com/)
+
+I am excited to use these tools and the others I have mentioned above. I am not sure that I will use the gaze detection software in my project, but learning about it has brought me to so many other useful tools, and given me lots of ideas! As I continue to research I am discovering the subjects and tools I am excited about. There are so many options that I believe my biggest challenge will be narrowing down what exactly I wish to research, not a lack of options. I enjoyed learning about the Tensorflow "Face Landmark Detection" model and the gaze detection software, but I believe I would want my research to focus mostly on other tools, like Touchdesigner, Blender, or Unity. Touchdesigner was one of the tools I discovered in my research that I think is extremely interesting. I haven't quite wrapped by head around it but I am excited to explore it's capabilities, and brainstorm projects and research I may be able to use it for.
