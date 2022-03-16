@@ -10,20 +10,6 @@ tags: ["Research", "Articles"]
 draft: false
 type: "post"
 ---
-### Name
-Zoe White
-
-### GitHub Account Name
-zoe9078
-
-#### Netlify address of your notebook.
-https://zoewhite.netlify.app/blog/
-
-### Submission Date
-16 March 2022
-
----
-
 ### Survey Article from the literature
 
 
